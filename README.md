@@ -2,7 +2,7 @@
 This repository contains a Jupyter/IPython notebook which shows the calculation and visualization of PCA of some random variable using two methods:
 ie. i) Singular Value Decomposition (SVD) and ii) Eigen Vectors of the Covariance Matrix.
 
-Link to the [notebook](simple-pca).
+Link to the [notebook](simple-pca.ipynb).
 
 # Requirements (Preferably Anaconda)
 - numpy
